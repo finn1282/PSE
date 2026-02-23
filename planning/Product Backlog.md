@@ -65,7 +65,7 @@
 	- Star icon on presenter card to select/remove favorites
 - Priority: Should Have
 ## Epic 4 – Video Playback and Management
-## US 12 – Watch Generated Video
+### US 12 – Watch Generated Video
 - User Story: As a student I want to watch my generated video lesson So that I can learn the material
 - Acceptance Criteria:
 	- Play button on generated videos
